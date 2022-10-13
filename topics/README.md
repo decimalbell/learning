@@ -4,4 +4,6 @@
 
 ## [redis](./redis/README.md)
 
+## [sqlite](./sqlite/README.md)
+
 ## [tokyocabinet](./tokyocabinet/README.md)
