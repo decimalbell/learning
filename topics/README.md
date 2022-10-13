@@ -22,6 +22,8 @@
 
 ## [ndbm](./ndbm/README.md)
 
+## [nsq](./nsq/README.md)
+
 ## [pika](./pika/README.md)
 
 ## [redis](./redis/README.md)
@@ -31,5 +33,7 @@
 ## [sqlite](./sqlite/README.md)
 
 ## [ssdb](./ssdb/README.md)
+
+## [tair](./tair/README.md)
 
 ## [tokyocabinet](./tokyocabinet/README.md)
