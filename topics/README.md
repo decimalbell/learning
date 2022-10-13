@@ -4,6 +4,10 @@
 
 ## [berkeleydb](./berkeleydb/README.md)
 
+## [bitcask](./bitcask/README.md)
+
+## [boltdb](./boltdb/README.md)
+
 ## [dbm](./dbm/README.md)
 
 ## [gdbm](./gdbm/README.md)
@@ -13,6 +17,8 @@
 ## [kyotocabinet](./kyotocabinet/README.md)
 
 ## [leveldb](./leveldb/README.md)
+
+## [memcached](./memcached/README.md)
 
 ## [ndbm](./ndbm/README.md)
 
