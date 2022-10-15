@@ -8,6 +8,8 @@
 
 ## [boltdb](./boltdb/README.md)
 
+## [codis](./codis/README.md)
+
 ## [dbm](./dbm/README.md)
 
 ## [gdbm](./gdbm/README.md)
