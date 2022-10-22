@@ -1,5 +1,7 @@
 # topics
 
+## [ardb](./ardb/README.md)
+
 ## [beanstalkd](./beanstalkd/README.md)
 
 ## [berkeleydb](./berkeleydb/README.md)
@@ -29,6 +31,8 @@
 ## [pika](./pika/README.md)
 
 ## [redis](./redis/README.md)
+
+## [rocksdb](./rocksdb/README.md)
 
 ## [sdbm](./sdbm/README.md)
 
